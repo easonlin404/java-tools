@@ -46,3 +46,10 @@
 
 ## Encryption
 * [ Bouncy Castle](https://www.bouncycastle.org/)
+
+
+## code coverage
+* [Cobertura](http://cobertura.github.io/cobertura/)
+
+## static analysis
+* [FindBugs](http://findbugs.sourceforge.net/)
