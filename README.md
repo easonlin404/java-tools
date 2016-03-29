@@ -48,8 +48,15 @@
 * [ Bouncy Castle](https://www.bouncycastle.org/)
 
 
-## code coverage
+## Code Coverage
 * [Cobertura](http://cobertura.github.io/cobertura/)
 
-## static analysis
+## Static Analysis
 * [FindBugs](http://findbugs.sourceforge.net/)
+
+## Monitor and control
+* [VisualVM](http://visualvm.java.net/)
+
+## CI
+* [Jenkins](https://jenkins.io/index.html)
+* [Travis-CI](https://travis-ci.org/)
