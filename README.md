@@ -20,7 +20,7 @@
 * [Struts2](https://struts.apache.org/)
 * [SpringMVC](https://spring.io/)
 * [play](https://www.playframework.com/)
-* [JSF](http://www.oracle.com/technetwork/java/javaee/documentation/index-137726.html)
+* [JSF](https://javaserverfaces.java.net/)
 
 ## Web Scraping
 * [jsoup](http://jsoup.org/)
