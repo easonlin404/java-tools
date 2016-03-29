@@ -20,6 +20,7 @@
 * [Struts2](https://struts.apache.org/)
 * [SpringMVC](https://spring.io/)
 * [play](https://www.playframework.com/)
+* [JSF](http://www.oracle.com/technetwork/java/javaee/documentation/index-137726.html)
 
 ## Web Scraping
 * [jsoup](http://jsoup.org/)
@@ -43,10 +44,11 @@
   * [Apache Commons Lang](https://commons.apache.org/proper/commons-lang/)
   * [Apache Commons BeanUtils](http://commons.apache.org/proper/commons-beanutils/)
   * [Apache Commons Validator](https://commons.apache.org/proper/commons-validator/)
+  * [Apache Commons Codec](https://commons.apache.org/proper/commons-codec/)
 
 ## Encryption
-* [ Bouncy Castle](https://www.bouncycastle.org/)
-
+* [Bouncy Castle](https://www.bouncycastle.org/)
+* [Apache Commons Codec](https://commons.apache.org/proper/commons-codec/)
 
 ## Code Coverage
 * [Cobertura](http://cobertura.github.io/cobertura/)
