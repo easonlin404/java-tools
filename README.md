@@ -28,6 +28,7 @@
 
 ## Unit Test
 * [Junit](http://junit.org/junit4/)
+* [Hamcrest](http://hamcrest.org/)
 * [Mockito](http://mockito.org/)
 * [TestNG](http://testng.org/)
 
