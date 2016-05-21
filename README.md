@@ -40,6 +40,9 @@
 * [Apache CXF](https://cxf.apache.org/)
 * [Apache HTTP Client](https://hc.apache.org/httpcomponents-client-ga/)
 
+## RestFul framework
+ * [Dropwizard](http://www.dropwizard.io/)
+ 
 ## Utils
 * [Apache Commons](https://commons.apache.org/)
   * [Apache Commons Lang](https://commons.apache.org/proper/commons-lang/)
@@ -63,3 +66,6 @@
 ## CI
 * [Jenkins](https://jenkins.io/index.html)
 * [Travis-CI](https://travis-ci.org/)
+
+## Rapidly build production
+* [Spring Boot](http://projects.spring.io/spring-boot/)
